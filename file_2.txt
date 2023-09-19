@@ -1,1 +1,10 @@
 this is verify how git works
+
+
+
+
+tes1
+
+
+
+feature copy is added to file

@@ -1,1 +1,8 @@
  this the to uderstand how git works
+
+
+
+ test1
+
+
+ feature 1 is added to copy
