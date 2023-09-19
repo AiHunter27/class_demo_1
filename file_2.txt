@@ -8,3 +8,6 @@ tes1
 
 
 feature copy is added to file
+
+
+follwing instruction 4 of part 2
